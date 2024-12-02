@@ -1,0 +1,10 @@
+com\example\dados\Reserva.class
+com\example\menus\MenuComum.class
+com\example\dados\Equipamento.class
+com\example\dados\Sala.class
+com\example\App.class
+com\example\negocio\GerenciamentoSalas.class
+com\example\menus\MenuInicial.class
+com\example\menus\MenuADM.class
+com\example\dados\Usuario.class
+com\example\dados\Administrador.class
